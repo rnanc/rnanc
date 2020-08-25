@@ -14,7 +14,7 @@ I'm a Computer Science student <img src="https://github.com/rnanc/rnanc/blob/mas
 
 <br />
 
-## <img src="https://github.com/rnanc/rnanc/blob/master/assets/iconfinder_EXPAND_ICONFINDER_COLOR_TECHNOLOGY-01_3970121.svg" width="60"> Technologis:
+## <img src="https://github.com/rnanc/rnanc/blob/master/assets/iconfinder_EXPAND_ICONFINDER_COLOR_TECHNOLOGY-01_3970121.svg" width="60"> Technologies:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
