@@ -14,6 +14,25 @@ I'm a Computer Science student <img src="https://github.com/rnanc/rnanc/blob/mas
 
 <br />
 
+## <img src="https://github.com/rnanc/rnanc/blob/master/assets/iconfinder_EXPAND_ICONFINDER_COLOR_TECHNOLOGY-01_3970121.svg" width="60"> Technologis:
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
+
 ## <img src="https://github.com/rnanc/rnanc/blob/master/assets/iconfinder_JD-12_2259880.svg" width="60"> My Stats:
 
 ![Renan's github stats](https://github-readme-stats.vercel.app/api?username=rnanc&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rnanc&bg_color=30,e96443,904e95&text_color=fff&count_private=false&icon_color=fff&title_color=fff&hide_border=true)
