@@ -1,4 +1,4 @@
-# Hello there ! <img src="assets/iconfinder_obiwan-kenobi_1626629.svg" width="50">
+# Hello there ! <img src="https://github.com/rnanc/rnanc/blob/master/assets/iconfinder_obiwan-kenobi_1626629.svg" width="50">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/renanfigcarneiro/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:renanfigcarneiro@gmail.com)
