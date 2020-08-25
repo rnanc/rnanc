@@ -22,7 +22,7 @@ I'm a Computer Science student <img src="https://github.com/rnanc/rnanc/blob/mas
 
 [![Git Tutorial](https://github-readme-stats.vercel.app/api/pin/?username=rnanc&repo=Tutorial_Git&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/rnanc/Tutorial_Git)
 
-## <img src="https://github.com/rnanc/rnanc/blob/master/assets/iconfinder_love-heart-romantic-marriage-18_4180551.svg" width="40"> Favorite Repo
+## <img src="https://github.com/rnanc/rnanc/blob/master/assets/iconfinder_love-heart-romantic-marriage-18_4180551.svg" width="40"> Favorite Repo (pt-br)
 
 [![MOBYDATA](https://github-readme-stats.vercel.app/api/pin/?username=rnanc&repo=MOBYDATA&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/rnanc/MOBYDATA)
 
