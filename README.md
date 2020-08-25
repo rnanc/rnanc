@@ -7,13 +7,11 @@
 I'm a Computer Science student <img src="https://github.com/rnanc/rnanc/blob/master/assets/iconfinder_astronaut_5267458.svg" width="40"> with a degree in Dentistry <img src="https://github.com/rnanc/rnanc/blob/master/assets/iconfinder_Dental_-_Tooth_-_Dentist_-_Dentistry_25_2185059.svg" width="35"> and a post graduation in Prosthodontics <img src="https://github.com/rnanc/rnanc/blob/master/assets/iconfinder_Dental_-_Tooth_-_Dentist_-_Dentistry_26_2185048.svg" width="40">
 
 <br />
-<br />
 
-Problem Lover <img src="https://github.com/rnanc/rnanc/blob/master/assets/iconfinder_love-heart-romantic-marriage-18_4180551.svg" width="40">
-<br/>
-Solution Addicted <img src="https://github.com/rnanc/rnanc/blob/master/assets/iconfinder_496_bulb_energy_idea_solution_4212938.svg" width="40">
+- Problem Lover <img src="https://github.com/rnanc/rnanc/blob/master/assets/iconfinder_love-heart-romantic-marriage-18_4180551.svg" width="40">
 
-<br />
+- Innovation Addicted <img src="https://github.com/rnanc/rnanc/blob/master/assets/iconfinder_496_bulb_energy_idea_solution_4212938.svg" width="40">
+
 <br />
 
 ## <img src="https://github.com/rnanc/rnanc/blob/master/assets/iconfinder_JD-12_2259880.svg" width="60"> My Stats:
