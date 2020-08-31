@@ -43,7 +43,7 @@ I'm a Computer Science student <img src="https://github.com/rnanc/rnanc/blob/mas
 
 ## <img src="https://github.com/rnanc/rnanc/blob/master/assets/iconfinder_love-heart-romantic-marriage-18_4180551.svg" width="40"> Favorite Repo (pt-br)
 
-[![MOBYDATA](https://github-readme-stats.vercel.app/api/pin/?username=rnanc&repo=MOBYDATA&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/rnanc/MOBYDATA)
+[![MOBYDATA](https://github-readme-stats.vercel.app/api/pin/?username=rnanc&repo=MOBYDATA&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/rnanc/MOBYDATA)[![Blue Lightning](https://github-readme-stats.vercel.app/api/pin/?username=rnanc&repo=blue-lightning-theme&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/rnanc/blue-lightning-theme)
 
 ## <img src="https://github.com/rnanc/rnanc/blob/master/assets/iconfinder_love-heart-romantic-marriage-18_4180551.svg" width="40"> Favorite Tools
 
