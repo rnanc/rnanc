@@ -51,7 +51,7 @@ I'm a Computer Science student <img src="https://github.com/rnanc/rnanc/blob/mas
 
 ## <img src="https://github.com/rnanc/rnanc/blob/master/assets/iconfinder_law_iconsArtboard_1_copy_3_2393031.svg" width="40"> Colab Repos
 
-[![Colab](https://github-readme-stats.vercel.app/api/pin/?username=marcosp-sousa&repo=BioTaxGeo&bg_color=30,e96443,904e95&text_color=fff&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/marcosp-sousa/BioTaxGeo)
+[![Colab](https://github-readme-stats.vercel.app/api/pin/?username=marcos-de-sousa&repo=BioTaxGeo&bg_color=30,e96443,904e95&text_color=fff&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/marcos-de-sousa/BioTaxGeo)
 
 ## <img src="https://github.com/rnanc/rnanc/blob/master/assets/iconfinder_logo_stackoverflow_Stack_overflow_6541614.svg" width="40"> Full Stack System
 
