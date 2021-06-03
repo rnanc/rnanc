@@ -24,7 +24,9 @@ I'm a Computer Science student <img src="https://github.com/rnanc/rnanc/blob/mas
     <img align="left" alt="React and React Native" width="26px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"/>
     <img align="left" alt="VUE" width="26px" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg"/> 
     </div>
-    <br/>
+  
+  <br/>
+  
   - Back-End: <div>
     <img align="left" alt="NodeJS" width="26px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"/> 
     <img align="left" alt="Jest" width="26px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"/>
