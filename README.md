@@ -49,7 +49,7 @@ I'm a Computer Science student <img src="https://github.com/rnanc/rnanc/blob/mas
 
 ## <img src="https://github.com/rnanc/rnanc/blob/master/assets/iconfinder_love-heart-romantic-marriage-18_4180551.svg" width="40"> Favorite Repo (pt-br)
 
-[![MOBYDATA](https://github-readme-stats.vercel.app/api/pin/?username=rnanc&repo=MOBYDATA&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/rnanc/MOBYDATA)[![Blue Lightning](https://github-readme-stats.vercel.app/api/pin/?username=rnanc&repo=blue-lightning-theme&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/rnanc/blue-lightning-theme)
+[![MOBYDATA](https://github-readme-stats.vercel.app/api/pin/?username=rnanc&repo=MOBYDATA&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/rnanc/MOBYDATA) [![Blue Lightning](https://github-readme-stats.vercel.app/api/pin/?username=rnanc&repo=blue-lightning-theme&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/rnanc/blue-lightning-theme)
 
 ## <img src="https://github.com/rnanc/rnanc/blob/master/assets/iconfinder_love-heart-romantic-marriage-18_4180551.svg" width="40"> Favorite Tools
 
@@ -62,3 +62,7 @@ I'm a Computer Science student <img src="https://github.com/rnanc/rnanc/blob/mas
 ## <img src="https://github.com/rnanc/rnanc/blob/master/assets/iconfinder_logo_stackoverflow_Stack_overflow_6541614.svg" width="40"> Full Stack System
 
 [![Api](https://github-readme-stats.vercel.app/api/pin/?username=rnanc&repo=gobarber-api&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/rnanc/gobarber-api) [![web](https://github-readme-stats.vercel.app/api/pin/?username=rnanc&repo=gobarber-web&bg_color=30,e96443,904e95&text_color=fff&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/rnanc/gobarber-web) [![mobile](https://github-readme-stats.vercel.app/api/pin/?username=rnanc&repo=gobarber-app&bg_color=30,e96443,904e95&text_color=fff&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/rnanc/gobarber-app)
+
+## <img src="https://github.com/rnanc/rnanc/blob/master/assets/iconfinder_starship_3285300.svg" width="40"> Deployed Repos
+
+[![git-explorer-2021](https://github-readme-stats.vercel.app/api/pin/?username=rnanc&repo=Git-Explorer-2021&bg_color=30,e96443,904e95&text_color=fff&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/rnanc/git-explorer-2021) [![evernote-clone](https://github-readme-stats.vercel.app/api/pin/?username=rnanc&repo=evernote-clone-react&bg_color=30,e96443,904e95&text_color=fff&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)](https://github.com/rnanc/evernote-clone-react)
