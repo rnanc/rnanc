@@ -39,6 +39,7 @@ I'm a Computer Science student <img src="https://github.com/rnanc/rnanc/blob/mas
 
 ![Renan's github stats](https://github-readme-stats.vercel.app/api?username=rnanc&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rnanc&bg_color=30,e96443,904e95&text_color=fff&count_private=false&icon_color=fff&title_color=fff&hide_border=true)
 <br>
+<img src="https://github.com/rnanc/rnanc/blob/master/assets/github-user-contribution.svg">
 
 ## <img src="https://github.com/rnanc/rnanc/blob/master/assets/iconfinder_ilustracoes_04-10_1519778.svg" width="40"> Tutorial Repos (pt-br)
 
