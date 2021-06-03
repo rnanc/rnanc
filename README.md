@@ -1,4 +1,4 @@
-# Hello there ! <img src="https://github.com/rnanc/rnanc/blob/master/assets/iconfinder_obiwan-kenobi_1626629.svg" width="50">
+# Hello there ! <img src="https://github.com/rnanc/rnanc/blob/master/assets/iconfinder_obiwan-kenobi_1626629.svg" width="50"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/renanfigcarneiro/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:renanfigcarneiro@gmail.com)
@@ -16,26 +16,29 @@ I'm a Computer Science student <img src="https://github.com/rnanc/rnanc/blob/mas
 
 ## <img src="https://github.com/rnanc/rnanc/blob/master/assets/iconfinder_EXPAND_ICONFINDER_COLOR_TECHNOLOGY-01_3970121.svg" width="60"> Technologies:
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
+  - Front-End: <div>
+    <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+    <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+    <img align="left" alt="Typescript" width="26px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"/> 
+    <img align="left" alt="Javascript" width="26px" src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png"/> 
+    <img align="left" alt="React and React Native" width="26px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"/>
+    <img align="left" alt="VUE" width="26px" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg"/> 
+    </div>
+    <br/>
+  - Back-End: <div>
+    <img align="left" alt="NodeJS" width="26px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"/> 
+    <img align="left" alt="Jest" width="26px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"/>
+    <img align="left" alt="Java" width="26px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"/>
+    <img align="left" alt="Spring" width="26px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"/>
+    <img align="left" alt="Postgres" width="26px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"/> 
+   </div>
+
+<br/>
 
 ## <img src="https://github.com/rnanc/rnanc/blob/master/assets/iconfinder_JD-12_2259880.svg" width="60"> My Stats:
 
 ![Renan's github stats](https://github-readme-stats.vercel.app/api?username=rnanc&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rnanc&bg_color=30,e96443,904e95&text_color=fff&count_private=false&icon_color=fff&title_color=fff&hide_border=true)
+<br>
 
 ## <img src="https://github.com/rnanc/rnanc/blob/master/assets/iconfinder_ilustracoes_04-10_1519778.svg" width="40"> Tutorial Repos (pt-br)
 
