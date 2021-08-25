@@ -34,12 +34,21 @@ I'm a Computer Science student <img src="https://github.com/rnanc/rnanc/blob/mas
     <img align="left" alt="Spring" width="26px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"/>
     <img align="left" alt="Postgres" width="26px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"/> 
    </div>
+   
+   <br/>
+  
+  - Mobile: <div>
+    <img align="left" alt="React and React Native" width="26px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"/>
+    <img align="left" alt="Swift" width="26px" src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg"/>
+    <img align="left" alt="Firebase" width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"/>
+    <img align="left" alt="SalesForce" width="26px" src="https://www.vectorlogo.zone/logos/salesforce/salesforce-icon.svg"/>
+   </div>
 
 <br/>
 
 ## <img src="https://github.com/rnanc/rnanc/blob/master/assets/iconfinder_JD-12_2259880.svg" width="60"> My Stats:
 
-![Renan's github stats](https://github-readme-stats.vercel.app/api?username=rnanc&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rnanc&bg_color=30,e96443,904e95&text_color=fff&count_private=false&icon_color=fff&title_color=fff&hide_border=true)
+![Renan's github stats](https://github-readme-stats.vercel.app/api?username=rnanc&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rnanc&bg_color=30,e96443,904e95&text_color=fff&count_private=false&icon_color=fff&title_color=fff&hide_border=true&hide=css,html,jupyter%20notebook)
 <br>
 <img src="https://github.com/rnanc/rnanc/blob/master/assets/github-user-contribution.svg">
 
