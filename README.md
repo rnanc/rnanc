@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:renanfigcarneiro@gmail.com)
 
 ## About me:
-I'm a Computer Science student <img src="https://github.com/rnanc/rnanc/blob/master/assets/iconfinder_astronaut_5267458.svg" width="40"> with a degree in Dentistry <img src="https://github.com/rnanc/rnanc/blob/master/assets/iconfinder_Dental_-_Tooth_-_Dentist_-_Dentistry_25_2185059.svg" width="35"> and a post graduation in Prosthodontics <img src="https://github.com/rnanc/rnanc/blob/master/assets/iconfinder_Dental_-_Tooth_-_Dentist_-_Dentistry_26_2185048.svg" width="40">
+Bachelor in Computer Science <img src="https://github.com/rnanc/rnanc/blob/master/assets/iconfinder_astronaut_5267458.svg" width="40"> with a degree in Dentistry <img src="https://github.com/rnanc/rnanc/blob/master/assets/iconfinder_Dental_-_Tooth_-_Dentist_-_Dentistry_25_2185059.svg" width="35"> and a post graduation in Prosthodontics <img src="https://github.com/rnanc/rnanc/blob/master/assets/iconfinder_Dental_-_Tooth_-_Dentist_-_Dentistry_26_2185048.svg" width="40">
 
 Currently working as iOS Developer <img align="left" alt="Swift" width="26px" src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" width="40"/>
 
